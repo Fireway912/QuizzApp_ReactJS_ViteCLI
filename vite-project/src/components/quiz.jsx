@@ -4,7 +4,7 @@ function Quiz(){
     const questionBank = [
         {
             question: "Qual a universidade em que Adriano Claysson se formou?",
-            options: ["UnB","UCB","UDF","ITA"],
+            options: ["UDF","UCB","UnB","ITA"],
             answer: "UnB",
         },
         {
@@ -19,7 +19,7 @@ function Quiz(){
         },
         {
             question: "Qual a melhor escolha para contratar?",
-            options: ["Adriano Claysson"],
+            options: ["Adriano Claysson", "Outros"],
             answer: "Adriano Claysson",
         },
     ];
